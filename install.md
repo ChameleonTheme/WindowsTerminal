@@ -11,7 +11,7 @@ Start Windows Terminal and click on the down arrow symbol `˅` from menu bar. Th
 In the `settings.json` settings file for Windows Terminal, find the `schemes` section and paste the content of `chameleon.json`.
 
 Example:
-`
+```json
 "schemes": [
     {
       "name" : "Chameleon",
@@ -35,15 +35,15 @@ Example:
       "yellow" : "#F7D263"
     }
 ]
-`
+```
 Activate
 Once the color scheme has been defined, it's time to enable it. Find the profiles section and add a colorScheme value to the default profile.
 
 Example:
-`
+```json
 "profiles": {
     "defaults": {
         "colorScheme" : "Chameleon"
     }
 }
-`
+```
