@@ -11,6 +11,7 @@ To install the theme, access the file [`install.md`](https://github.com/Chameleo
 ## author
 
 This theme is maintained by [Mario Matsui](https://github.com/MarioMatsui)
+
 ---
 
 ## Show your support
