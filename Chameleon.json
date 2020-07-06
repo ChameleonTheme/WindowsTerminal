@@ -1,0 +1,21 @@
+{
+    "name" : "Chameleon",
+    "background" : "#645d6e",
+    "black" : "#030705",
+    "blue" : "#4B93DC",
+    "brightBlack" : "#131313",
+    "brightBlue" : "#77abe0",
+    "brightCyan" : "#9fecec",
+    "brightGreen" : "#43d4a2",
+    "brightPurple" : "#e39fd7",
+    "brightRed" : "#d7726e",
+    "brightWhite" : "#FFFFFF",
+    "brightYellow" : "#fbe08f",
+    "cyan" : "#20dbdb",
+    "foreground" : "#0d1c22",
+    "green" : "#01BB7B",
+    "purple" : "#DD80CC",
+    "red" : "#CC4E48",
+    "white" : "#eeeeee",
+    "yellow" : "#F7D263"
+}
